@@ -1,6 +1,7 @@
-[Here](file:///C:/Users/Berkay%20Kocak/Desktop/Github/spring20-berkaykocakk/files/example_homework_0.html) is my 5 R application examples.
 
 ## Welcome to GitHub Pages
+
+[Here](file:///C:/Users/Berkay%20Kocak/Desktop/Github/spring20-berkaykocakk/files/example_homework_0.html) is my 5 R application examples.
 
 You can use the [editor on GitHub](https://github.com/BU-IE-360/spring20-berkaykocakk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
