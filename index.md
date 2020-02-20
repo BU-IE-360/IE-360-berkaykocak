@@ -1,5 +1,5 @@
 
-## Welcome to GitHub Pages
+## Berkay Kocak Progress Journal
 
 [Here](file:///C:/Users/Berkay%20Kocak/Desktop/Github/spring20-berkaykocakk/files/example_homework_0.html) is my 5 R application examples.
 
